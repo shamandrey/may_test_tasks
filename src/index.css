@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+ .map { height: 400px; }
+span:hover { background-color: yellow; }
+span.selected { background-color: orange; }
